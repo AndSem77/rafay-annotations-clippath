@@ -1,0 +1,102 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* print options start */
+body {
+  height: 100%;
+  overflow-y: hidden;
+}
+
+@page {
+  size: auto;
+  margin: 10mm;
+}
+
+.printContainer {
+  display: block;
+  width: auto;
+  height: auto;
+  overflow: visible;
+}
+
+@media only print {
+  #printContainer {
+    display: block;
+    width: 100%;
+    height: auto;
+    overflow: visible;
+  }
+  .page-break {
+    margin-top: 1rem;
+    display: block;
+    page-break-before: always;
+  }
+}
+
+/* print options end */
+
+.noSelect {
+  -webkit-tap-highlight-color: transparent;
+}
+
+@media print {
+  .addElementBtn {
+    visibility: hidden;
+  }
+}
+
+.moveable-control {
+  width: 6px !important;
+  height: 6px !important;
+  margin-top: -3px !important;
+  margin-left: -3px !important;
+  border-radius: 0;
+}
+.moveable-origin {
+  display: none;
+}
+
+.css-1kfu8nn {
+  min-width: 100px !important;
+}
+
+@media print {
+  .saveTemplateBtn {
+    display: none;
+  }
+}
+
+.moveable-direction.moveable-n,
+.moveable-direction.moveable-s,
+.moveable-direction.moveable-e,
+.moveable-direction.moveable-w {
+  cursor: nesw-resize;
+  display: none !important;
+}
+
+.moveable-direction.moveable-ne,
+.moveable-direction.moveable-nw,
+.moveable-direction.moveable-sw,
+.moveable-direction.moveable-se {
+  background-color: white !important;
+  border-radius: 0 !important;
+  border-width: 1px !important;
+  border-color: #4af !important;
+}
+
+.form-control {
+  font-family: system-ui, sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+  line-height: 1.1;
+  display: grid;
+  grid-template-columns: 1em auto;
+  gap: 0.5em;
+}
+
+img {
+  -webkit-clip-path: url(#myClip);
+  clip-path: url(#myClip);
+  width: 400px;
+}

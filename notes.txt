@@ -1,0 +1,79 @@
+// https://bobbyhadz.com/blog/react-get-mouse-position
+// Get the Mouse position (coordinates) in React
+
+Mouse position relative to the element
+https://ahooks.js.org/hooks/use-mouse/
+
+https://www.airplane.dev/blog/how-to-use-the-react-draggable-component
+
+{isEditing ? <div><textarea className="text-input" value={text} onChange={(e) => 
+setText(e.target.value)} onDoubleClick={() => setText('')} /><button onClick={() => 
+setIsEditing(false)}>Save</button></div> : <p onClick={() => setIsEditing(true)}>{text}</p>}
+
+React Hook Form - multiple useFieldArray in a form
+https://codesandbox.io/s/react-hook-form-multiple-usefieldarray-in-a-form-ffboe
+
+react-dnd-example-11
+https://codesandbox.io/s/react-dnd-example-11-l90lw9y3ll?file=/src/Container.js
+
+
+how to add and delete annos
+
+https://blog.logrocket.com/create-draggable-components-react-draggable/
+
+import React from "react";
+import Card from "./Card";
+
+export default function Done({ tasks, addTask }) {
+  return (
+    <>
+      {tasks
+        .filter((item) => item.timeline === "done")
+        .map((e) => (
+          <Card currentTask={e} tasks={tasks} addTask={addTask} />
+        ))}
+    </>
+  );
+}
+
+
+<img
+            onClick={() => {
+              const newTaskList = tasks.filter((item) => {
+                if (item.id != currentTask.id) {
+                  return item;
+                }
+              });
+              addTask(newTaskList);
+            }}
+            src='https://toppng.com/uploads/preview/recycling-bin-vector-delete-icon-png-black-11563002079w1isxqyyiv.png'
+            style={{ height: "20px", width: "20px" }}
+          />
+
+
+              e.preventDefault();
+    let newTask = {
+      id: uuidv4(),
+      name: name,
+      description: description,
+      timeline: option,
+    };
+    setTasks([...tasks, newTask]);
+    setAddItem(!addItem);
+  ;
+
+  Draggable Event Listeners & Usage on Draggable Components
+
+  https://www.copycat.dev/blog/react-draggable/
+
+
+  React Draggable using localStorage to save position of ...
+
+  https://www.google.com/search?q=react+drawing+app+how+to+save+position+of+element&rlz=1C5CHFA_enUA963UA963&oq=react+drawing+app+how+to+save+position+of+element&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMgYIAhBFGEDSAQkxMjU0MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:7dce170a,vid:kinW0ZIfFuU,st:0
+
+  DraggableDivsSavePosition Github
+
+  https://github.com/DoubleNemesis/DraggableDivsSavePosition/blob/main/src/App.js
+
+  Controlled React Popup
+  https://react-popup.elazizi.com/controlled-popup

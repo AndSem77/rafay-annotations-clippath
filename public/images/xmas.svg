@@ -1,0 +1,96 @@
+<svg width="221" height="695" viewBox="0 0 221 695" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="well-barrier">
+<g id="tree-cap">
+<rect id="Rectangle 1" x="107.136" y="0.5" width="53.2943" height="16.1847" rx="2.5" stroke="black"/>
+<path id="Vector 1" d="M112.454 0V16.5482" stroke="black"/>
+<path id="Vector 2" d="M122.795 0V16.5482" stroke="black"/>
+<path id="Vector 3" d="M133.784 0V16.5482" stroke="black"/>
+<path id="Vector 4" d="M144.772 0V16.5482" stroke="black"/>
+<path id="Vector 5" d="M155.76 0V16.5482" stroke="black"/>
+</g>
+<g id="cv">
+<ellipse id="Ellipse 1" cx="18.0981" cy="17.8176" rx="18.0981" ry="17.8176" transform="matrix(0.712538 -0.701634 0.712538 0.701634 107.929 39.8417)" stroke="black"/>
+<path id="Vector 6" d="M121.029 27.3451L146.36 52.2881" stroke="black"/>
+<path id="Vector 7" d="M120.829 52.5448L146.413 27.3531" stroke="black"/>
+</g>
+<g id="umv">
+<ellipse id="Ellipse 1_2" cx="18.0981" cy="18.0511" rx="18.0981" ry="18.0511" transform="matrix(0.712538 -0.701634 0.712538 0.701634 107.929 111.126)" stroke="black"/>
+<path id="Vector 6_2" d="M121.032 98.6323L146.29 124.145" stroke="black"/>
+<path id="Vector 7_2" d="M120.999 123.996L146.582 98.8042" stroke="black"/>
+</g>
+<g id="lmv">
+<ellipse id="Ellipse 1_3" cx="18.0981" cy="18.0981" rx="18.0981" ry="18.0981" transform="matrix(0.712538 -0.701634 0.712538 0.701634 107.929 149.314)" stroke="black"/>
+<path id="Vector 6_3" d="M121.032 136.821L146.363 161.764" stroke="black"/>
+<path id="Vector 7_3" d="M121.032 162.217L146.616 137.026" stroke="black"/>
+</g>
+<g id="scssv">
+<ellipse id="Ellipse 1_4" cx="18.0981" cy="18.0981" rx="18.0981" ry="18.0981" transform="matrix(0.712538 -0.701634 0.712538 0.701634 107.929 385.419)" stroke="black"/>
+<path id="Vector 6_4" d="M121.032 372.926L146.363 397.869" stroke="black"/>
+<path id="Vector 7_4" d="M121.032 398.322L146.616 373.131" stroke="black"/>
+</g>
+<g id="kwv">
+<circle id="Ellipse 1_5" cx="18.0981" cy="18.0981" r="18.0981" transform="matrix(0.712538 -0.701634 0.712538 0.701634 71.0864 75.484)" stroke="black"/>
+<path id="Vector 6_5" d="M84.1902 62.9905L109.521 87.9335" stroke="black"/>
+<path id="Vector 7_5" d="M84.1902 88.3871L109.773 63.1954" stroke="black"/>
+</g>
+<g id="fwv">
+<ellipse id="Ellipse 1_6" cx="18.0981" cy="18.0511" rx="18.0981" ry="18.0511" transform="matrix(0.712538 -0.701634 0.712538 0.701634 144.125 75.484)" stroke="black"/>
+<path id="Vector 6_6" d="M157.228 62.9901L182.486 88.5029" stroke="black"/>
+<path id="Vector 7_6" d="M157.195 88.3536L182.778 63.1619" stroke="black"/>
+</g>
+<g id="tree-body">
+<path id="Vector 9" d="M115.039 57.2823V22.913H92.8645L79.4894 35.4374V57.2823H115.039Z" stroke="black"/>
+<path id="Vector 13" d="M151.882 57.2823V22.913H174.46L188.078 35.4374V57.2823H151.882Z" stroke="black"/>
+<path id="Vector 10" d="M115.039 23.2312V17.1847" stroke="black"/>
+<path id="Vector 11" d="M151.882 23.2312V17.1847" stroke="black"/>
+<path id="Vector 18" d="M78.8429 93.5611H47.1713" stroke="black"/>
+<path id="Vector 19" d="M79.4893 57.2823H47.8176" stroke="black"/>
+<path id="Vector 22" d="M78.5198 149.53L46.5249 167.202V169.993H115.039V93.7223H78.5198V149.53Z" stroke="black"/>
+<path id="Vector 23" d="M188.401 149.53L220.396 167.202V169.993H151.882V93.7223H188.401V149.53Z" stroke="black"/>
+<g id="kwv-flange">
+<rect id="Rectangle 3" x="193.102" y="50.1447" width="8.69541" height="49.9176" stroke="black"/>
+<g id="Rectangle 5">
+<mask id="path-34-inside-1_19_69" fill="white">
+<path d="M202.298 55.373H204.883V59.1918H202.298V55.373Z"/>
+</mask>
+<path d="M204.883 55.373H205.883V54.373H204.883V55.373ZM204.883 59.1918V60.1918H205.883V59.1918H204.883ZM202.298 56.373H204.883V54.373H202.298V56.373ZM203.883 55.373V59.1918H205.883V55.373H203.883ZM204.883 58.1918H202.298V60.1918H204.883V58.1918Z" fill="black" mask="url(#path-34-inside-1_19_69)"/>
+</g>
+<g id="Rectangle 6">
+<mask id="path-36-inside-2_19_69" fill="white">
+<path d="M202.298 91.6517H204.883V95.4705H202.298V91.6517Z"/>
+</mask>
+<path d="M204.883 91.6517H205.883V90.6517H204.883V91.6517ZM204.883 95.4705V96.4705H205.883V95.4705H204.883ZM202.298 92.6517H204.883V90.6517H202.298V92.6517ZM203.883 91.6517V95.4705H205.883V91.6517H203.883ZM204.883 94.4705H202.298V96.4705H204.883V94.4705Z" fill="black" mask="url(#path-36-inside-2_19_69)"/>
+</g>
+<g id="Rectangle 7">
+<mask id="path-38-inside-3_19_69" fill="white">
+<path d="M202.298 64.2835H204.883V68.1024H202.298V64.2835Z"/>
+</mask>
+<path d="M204.883 64.2835H205.883V63.2835H204.883V64.2835ZM204.883 68.1024V69.1024H205.883V68.1024H204.883ZM202.298 65.2835H204.883V63.2835H202.298V65.2835ZM203.883 64.2835V68.1024H205.883V64.2835H203.883ZM204.883 67.1024H202.298V69.1024H204.883V67.1024Z" fill="black" mask="url(#path-38-inside-3_19_69)"/>
+</g>
+<g id="Rectangle 8">
+<mask id="path-40-inside-4_19_69" fill="white">
+<path d="M202.298 73.8306H204.883V77.6494H202.298V73.8306Z"/>
+</mask>
+<path d="M204.883 73.8306H205.883V72.8306H204.883V73.8306ZM204.883 77.6494V78.6494H205.883V77.6494H204.883ZM202.298 74.8306H204.883V72.8306H202.298V74.8306ZM203.883 73.8306V77.6494H205.883V73.8306H203.883ZM204.883 76.6494H202.298V78.6494H204.883V76.6494Z" fill="black" mask="url(#path-40-inside-4_19_69)"/>
+</g>
+<g id="Rectangle 9">
+<mask id="path-42-inside-5_19_69" fill="white">
+<path d="M202.298 82.1047H204.883V85.9235H202.298V82.1047Z"/>
+</mask>
+<path d="M204.883 82.1047H205.883V81.1047H204.883V82.1047ZM204.883 85.9235V86.9235H205.883V85.9235H204.883ZM202.298 83.1047H204.883V81.1047H202.298V83.1047ZM203.883 82.1047V85.9235H205.883V82.1047H203.883ZM204.883 84.9235H202.298V86.9235H204.883V84.9235Z" fill="black" mask="url(#path-42-inside-5_19_69)"/>
+</g>
+</g>
+<path id="Vector 24" d="M188.401 93.7223H192.926" stroke="black"/>
+<path id="Vector 25" d="M188.078 57.2029H192.925" stroke="black"/>
+</g>
+<g id="fwv-arrows">
+<path id="Arrow 1" d="M0.633274 76.2706L5.63327 79.1573L5.63327 73.3838L0.633274 76.2706ZM36.8295 75.7706L5.13327 75.7706L5.13327 76.7706L36.8295 76.7706L36.8295 75.7706Z" fill="black"/>
+<path id="Arrow 3" d="M0.633274 87.9051L5.63327 90.7918L5.63327 85.0183L0.633274 87.9051ZM36.8295 87.4051L5.13327 87.4051L5.13327 88.4051L36.8295 88.4051L36.8295 87.4051Z" fill="black"/>
+<path id="Arrow 2" d="M0.633274 63.9897L5.63327 66.8765L5.63327 61.103L0.633274 63.9897ZM36.8295 63.4897L5.13327 63.4897L5.13327 64.4897L36.8295 64.4897L36.8295 63.4897Z" fill="black"/>
+</g>
+<g id="tubing">
+<path d="M151.5 170V695H152.5V170H151.5ZM115.5 695V170H114.5V695H115.5Z" fill="#803636"/>
+<path d="M151.5 170V695H152.5V170H151.5ZM115.5 695V170H114.5V695H115.5Z" fill="black" fill-opacity="0.2"/>
+</g>
+</g>
+</svg>
